@@ -7,7 +7,6 @@ public class FirstAddressExercise {
         System.out.println("Company: Samsung Electronics");
     }
 
-    
     public static void main(String[] args) {
         displayAddress();
     }
